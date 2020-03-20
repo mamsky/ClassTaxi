@@ -15,7 +15,7 @@ namespace TugasTaxi
 
 
 			// mengeset nilai properties
-			taxi.DriverName = "Aresa Aulina Melinda";
+			taxi.DriverName = "Paste Prosmana";
 			taxi.OnDuty = true;
 			taxi.NumPassenger = 10;
 
